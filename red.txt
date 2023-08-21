@@ -1,3 +1,7 @@
 Hello EveryOne...
+<<<<<<< HEAD
 welcome to devops 
 maven
+=======
+WelCome to Nagpur...
+>>>>>>> feature1
